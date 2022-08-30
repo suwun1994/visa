@@ -1,0 +1,4 @@
+corn
+beans
+yams
+rice
